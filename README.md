@@ -7,6 +7,8 @@ Repositório do Github,Sites,Videos no Youtube, entre outros
 
 ## Livros
 
+1 - [Introduction to Statistical Learning](https://www.statlearning.com/): Tem a versão de R e Python
+
 ## Repositórios do Github
 
 1 - [Awesome-Recsy](https://github.com/jihoo-kim/awesome-RecSys)
@@ -14,5 +16,7 @@ Repositório do Github,Sites,Videos no Youtube, entre outros
 ## Sites
 
 ## Videos no Youtube
+
+1 - [Estatistica, ensino remoto UFPR](https://www.youtube.com/playlist?list=PLQcLb-PUD9WNZnVBYDKEonioyJw3nEaOM)
 
 ## Outros
