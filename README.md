@@ -17,6 +17,8 @@ Repositório do Github,Sites,Videos no Youtube, entre outros
 
 1 - [Sobre a distribuição Nernoulli e Binomial](https://medium.com/@fabioprogramar/probabilidade-distribui%C3%A7%C3%A3o-bernoulli-e-binomial-5a491eb6c64a)
 
+2 - [80 tipo de gráficos para visulaização](https://www-datylon-com.cdn.ampproject.org/c/s/www.datylon.com/blog/types-of-charts-graphs-examples-data-visualization?hs_amp=true)
+
 ## Videos no Youtube
 
 1 - [Estatistica, ensino remoto UFPR](https://www.youtube.com/playlist?list=PLQcLb-PUD9WNZnVBYDKEonioyJw3nEaOM)
