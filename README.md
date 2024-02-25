@@ -13,6 +13,10 @@ Repositório do Github,Sites,Videos no Youtube, entre outros
 
 1 - [Awesome-Recsy](https://github.com/jihoo-kim/awesome-RecSys)
 
+2 - [LLMS](https://github.com/IbrahimSobh/llms)
+
+3 - [LLM course](https://github.com/mlabonne/llm-course)
+
 ## Sites
 
 1 - [Sobre a distribuição Nernoulli e Binomial](https://medium.com/@fabioprogramar/probabilidade-distribui%C3%A7%C3%A3o-bernoulli-e-binomial-5a491eb6c64a)
