@@ -15,6 +15,8 @@ Repositório do Github,Sites,Videos no Youtube, entre outros
 
 ## Sites
 
+1 - [Sobre a distribuição Nernoulli e Binomial](https://medium.com/@fabioprogramar/probabilidade-distribui%C3%A7%C3%A3o-bernoulli-e-binomial-5a491eb6c64a)
+
 ## Videos no Youtube
 
 1 - [Estatistica, ensino remoto UFPR](https://www.youtube.com/playlist?list=PLQcLb-PUD9WNZnVBYDKEonioyJw3nEaOM)
