@@ -17,6 +17,8 @@ Repositório do Github,Sites,Videos no Youtube, entre outros
 
 3 - [LLM course](https://github.com/mlabonne/llm-course)
 
+4 - [TF Developer Course](https://github.com/mrdbourke/tensorflow-deep-learning)
+
 ## Sites
 
 1 - [Sobre a distribuição Nernoulli e Binomial](https://medium.com/@fabioprogramar/probabilidade-distribui%C3%A7%C3%A3o-bernoulli-e-binomial-5a491eb6c64a)
