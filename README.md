@@ -1,13 +1,16 @@
 # Materiais indicado para a área de dados
 
-![blinioteca](https://www.rbsdirect.com.br/filestore/4/5/7/3/2/8/4_607b3d2f9db96c0/4823754_d508394098f8f23.jpg?w=700)
+![biblioteca](https://www.rbsdirect.com.br/filestore/4/5/7/3/2/8/4_607b3d2f9db96c0/4823754_d508394098f8f23.jpg?w=700)
 
-Neste repositório, com o objetivo de colocar materiais para contribuir com o que tiver pesquisando materiais na área, sendo estes: Livros, Referências,
-Repositório do Github,Sites,Videos no Youtube, entre outros
+Neste repositório, o objetivo é reunir materiais para apoiar pesquisas na área, incluindo: livros, referências, repositórios do GitHub, sites, vídeos no YouTube e outros recursos relevantes.
 
 ## Livros
 
 1 - [Introduction to Statistical Learning](https://www.statlearning.com/): Tem a versão de R e Python
+
+2 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/): 3º edição do conceituado livro de Wes McKinney, disponível gratuitamente
+
+3 - [Dive into Deep Learning](https://d2l.ai/): Uma introdução prática e abrangente ao aprendizado profundo, disponível gratuitamente
 
 ## Repositórios do Github
 
@@ -19,6 +22,7 @@ Repositório do Github,Sites,Videos no Youtube, entre outros
 
 4 - [TF Developer Course](https://github.com/mrdbourke/tensorflow-deep-learning)
 
+5 - [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 ## Sites
 
 1 - [Sobre a distribuição Nernoulli e Binomial](https://medium.com/@fabioprogramar/probabilidade-distribui%C3%A7%C3%A3o-bernoulli-e-binomial-5a491eb6c64a)
